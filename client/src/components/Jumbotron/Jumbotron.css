@@ -1,0 +1,18 @@
+.jumbotron {
+    background: no-repeat;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.16), 0 6px 12px rgba(0,0,0,0.23);
+    text-shadow: 1px 1px 1px #000;
+}
+
+.title {
+    color: #BA4A00 !important;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.description {
+    color: #fff !important;
+    font-size: 30px;
+    font-weight: bold;
+}

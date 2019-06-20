@@ -1,0 +1,32 @@
+.Navbar {
+    background-color: 	#283747;
+    line-height: 48px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.16), 0 6px 12px rgba(0,0,0,0.23);
+    text-shadow: 3px 3px 6px #000;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.brand {
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.response {
+    color: white !important;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 15px;
+}
+
+.score {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 25px;
+}
+
+.number {
+    color: #fff !important;
+    font-size: 30px;
+}
